@@ -562,7 +562,7 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   cloudProjectId: 61bfa1fa-9d60-443c-ab92-17ae68905f54
   projectName: Top Down Shooter
